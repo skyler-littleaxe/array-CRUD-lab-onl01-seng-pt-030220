@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
   end
 
 def remove_element_from_end_of_array(array)
-  fkboy_says = ["you up", "hey", "sup", "" ]
+  fkboy_says = ["you up", "wyd", "i like your energy", "" ]
   
 end
 
