@@ -17,8 +17,8 @@ def add_element_to_start_of_array(array, element)
   end
 
 def remove_element_from_end_of_array(array)
-  fkboy_says = ["you up?", "wyd?", "i like your energy", "i love you"]
-  fkboy_neversays = fkboy_says.pop
+  count = [1,2,3,4,5, "arrays!"]
+  count_trash = count.pop
 end
   
 end
