@@ -41,5 +41,4 @@ def retrieve_first_element_from_array(array)
 def retrieve_last_element_from_array(array)
   girl_says = ["i", "love", "arrays!"]
   girl_says.last
-  
-end
+  end
