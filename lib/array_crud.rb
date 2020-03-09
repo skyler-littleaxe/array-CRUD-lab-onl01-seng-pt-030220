@@ -24,7 +24,8 @@ end
   
 
 def remove_element_from_start_of_array(array)
-  numbers_trash = numbers.shift
+  numbers_one = ["wow", 1,2,3,4,5]
+  numbers_trash = numbers_one.shift
   end
 
 def retrieve_element_from_index(array, index_number)
